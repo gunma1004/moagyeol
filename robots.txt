@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://moagyeol.netlify.app/sitemap.xml
